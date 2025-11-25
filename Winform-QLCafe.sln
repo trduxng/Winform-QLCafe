@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-QLCafe", "Winform-QLCafe\Winform-QLCafe.csproj", "{2113A72F-D815-4C22-B013-2A205087B6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2113A72F-D815-4C22-B013-2A205087B6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2113A72F-D815-4C22-B013-2A205087B6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2113A72F-D815-4C22-B013-2A205087B6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2113A72F-D815-4C22-B013-2A205087B6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5959D8-6163-4083-9AF0-2987C3058345}
+	EndGlobalSection
+EndGlobal
